@@ -1,0 +1,3 @@
+/home/zakis/Code/c++/15Puzzle/cmake-build-debug/CMakeFiles/15Puzzle.dir
+/home/zakis/Code/c++/15Puzzle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zakis/Code/c++/15Puzzle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
