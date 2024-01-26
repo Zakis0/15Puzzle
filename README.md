@@ -9,6 +9,7 @@
 <img src="https://github.com/Zakis0/15PuzzleRoguelike/blob/main/Images/maxField.jpg" alt="Max field">
 
 <h3 align="center">Game control</h3>
+<h4>Input char and press enter to do an action</h4>
 <img src="https://github.com/Zakis0/15PuzzleRoguelike/blob/main/Images/gameControl.jpg" alt="Game control">
 
 <h3 align="center">Shop</h3>
